@@ -6,4 +6,4 @@ Player Input: The player can input their move by selecting a row and column (1-3
 Computer AI: The computer randomly selects an available spot for its move.<br>
 Winner Check: The game checks for a winner after each move, and declares either a win, loss, or tie at the end.<br>
 Replay Option: After each game, the player can choose to play again or exit.<br>
-The game logic includes input validation, random move generation for the computer, and checks for rows, columns, and diagonals to determine the winner.<br>
+The game logic includes input validation, random move generation for the computer, and checks for rows, columns, and diagonals to determine the winner.<br> 
