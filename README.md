@@ -11,7 +11,7 @@ A feature-rich Tic-Tac-Toe game in C with multiple difficulty levels, color-code
 - 📝 **Game history logging**
 
 ## Project Structure
-── main.c # Main game loop<br>
+|── main.c # Main game loop<br>
 ├── engine.c # Game logic and AI<br>
 ├── ui.c # User interface<br>
 ├── file_io.c # File operations<br>
