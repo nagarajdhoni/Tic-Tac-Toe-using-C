@@ -1,4 +1,4 @@
-# Advanced Command-Line Tic-Tac-Toe
+# Tic-Tac-Toe
 
 A feature-rich Tic-Tac-Toe game in C with multiple difficulty levels, color-coded interface, and game statistics tracking.
 
